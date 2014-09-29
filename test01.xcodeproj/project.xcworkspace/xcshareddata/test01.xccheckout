@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D962B27B-A7DF-4672-A5B7-15E270D47A3B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>test01</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1191F0F92AD40FADAAD6373554D5099B99111C59</key>
+		<string>https://github.com/CAMIZOCA/PostCard.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test01.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1191F0F92AD40FADAAD6373554D5099B99111C59</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CAMIZOCA/PostCard.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1191F0F92AD40FADAAD6373554D5099B99111C59</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1191F0F92AD40FADAAD6373554D5099B99111C59</string>
+			<key>IDESourceControlWCCName</key>
+			<string>test01</string>
+		</dict>
+	</array>
+</dict>
+</plist>
